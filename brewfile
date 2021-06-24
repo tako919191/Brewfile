@@ -85,6 +85,7 @@ brew 'xorgproto'
 brew 'xz'
 brew 'zsh'
 brew 'zstd'
+brew 'minikube'
 
 cask 'alfred'
 cask 'google-chrome'
