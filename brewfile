@@ -91,9 +91,12 @@ tap 'teamookla/speedtest'
 
 cask 'alfred'
 cask 'google-chrome'
+cask 'google-cloud-sdk'
 cask 'iterm2'
 cask 'visual-studio-code'
 cask 'xquartz'
+
+mas 'Amphetamine', id: 937984704
 
 
 
